@@ -1,0 +1,15 @@
+[
+	{
+		"NextStepsReason__c": "S1 – Customer Escalation",
+		"Activities__r": null,
+		"CaseNumber": "00318133",
+		"Histories": [{
+			"CreatedDate": "2017-10-04T00:49:53.000Z",
+			"NewValue": "S1 – Customer Escalation",
+			"Id": null,
+			"type": "CaseHistory"
+		}],
+		"Id": null,
+		"type": "Case"
+	}
+]

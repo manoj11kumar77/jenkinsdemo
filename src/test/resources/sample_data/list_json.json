@@ -1,0 +1,848 @@
+[
+  {
+    "CaseNumber": "00277303",
+    "NextStepsReason": "S2 ? Parts Follow Up",
+    "CaseHistory": [
+      
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00277426",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-18T13:34:20.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00283791",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285815",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:08:12.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285818",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:13:17.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285820",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:20:23.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285824",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:30:09.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285825",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:32:40.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285827",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:35:20.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285831",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:47:52.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285833",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:50:21.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285834",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T21:55:13.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285838",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T22:05:18.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285841",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T22:10:02.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285843",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T22:14:54.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285845",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T22:20:11.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00285847",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-08-29T22:25:11.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00295338",
+    "NextStepsReason": "S2 ? Parts Follow Up",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-01T10:10:59.000Z",
+        "NewValue": "S2 ? Parts Follow Up"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00296122",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-06T16:22:36.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00301177",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00305643",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00305749",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-14T06:07:55.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306136",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:39:41.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306213",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:04:45.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306226",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:46:50.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306248",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:48:47.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306297",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:31:04.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306731",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:05:52.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306752",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:07:40.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306776",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:09:38.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306798",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:11:25.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306820",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:13:10.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00306865",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:17:09.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307054",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:35:20.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307215",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:48:13.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307259",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:51:57.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307283",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:53:35.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307309",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:37:24.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307331",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:39:29.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307332",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:57:25.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307353",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:59:23.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307375",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:01:10.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307398",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:03:01.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307420",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:46:33.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307446",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:05:15.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307471",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:50:03.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307491",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:08:52.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307513",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:10:42.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307539",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:12:28.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307554",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:27:08.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307619",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:32:35.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307707",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:40:56.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307723",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:10:06.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00307732",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:53:24.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00308254",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:55:51.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00308301",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T19:59:27.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00312938",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-19T20:12:10.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00317184",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-09-26T14:35:08.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00317954",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-02T15:46:18.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00317957",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-02T15:47:39.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318000",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-03T17:01:14.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318044",
+    "NextStepsReason": "S2 ? Parts Follow Up",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-06T04:00:57.000Z",
+        "NewValue": "S2 ? Parts Follow Up"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318103",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-03T17:04:42.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318107",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-03T17:26:39.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318130",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-03T17:46:15.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  },
+  {
+    "CaseNumber": "00318133",
+    "NextStepsReason": "S1 ? Customer Escalation",
+    "CaseHistory": [
+      {
+        "CreatedDateHist": "2017-10-04T00:49:53.000Z",
+        "NewValue": "S1 ? Customer Escalation"
+      }
+    ],
+    "LookedUpFromActivity": [
+      
+    ]
+  }
+]

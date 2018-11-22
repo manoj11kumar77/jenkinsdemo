@@ -1,0 +1,39 @@
+[{
+	"WorkOrders": [{
+		"Assigned_SP__c": "N53",
+		"WorkOrderNumber": "6005929",
+		"Id": null,
+		"type": "WorkOrder"
+	}],
+	"CreatedBy": {
+		"Id": null,
+		"type": "User",
+		"FS_KO_ID__c": "A47922"
+	},
+	"NextStepsReason__c": "TGB - Tech issuing service call",
+	"CreatedDate": "2017-06-06T17:33:28.000Z",
+	"ServiceType__c": "4 - Reactive Service",
+	"CaseNumber": "00273788",
+	"CaseItems__r": [{
+		"EquipmentTypeName__r": {
+			"Id": null,
+			"type": "Equipment__c",
+			"Name": "FN"
+		},
+		"Id": null,
+		"type": "Case_Item__c",
+		"TroubleCode1__r": {
+			"Id": null,
+			"type": "TroubleCode__c",
+			"Name": "6"
+		},
+		"ActionCode__r": {
+			"ActionCodeStatus__c": "Temp Fix",
+			"Id": null,
+			"type": "ActionCode__c",
+			"Name": "18"
+		}
+	}],
+	"Id": null,
+	"type": "Case"
+}]

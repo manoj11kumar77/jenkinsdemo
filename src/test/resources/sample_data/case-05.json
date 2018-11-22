@@ -1,0 +1,27 @@
+[{
+	"EquipmentTypeName__r": {
+		"Id": null,
+		"type": "Equipment__c",
+		"Name": "FN"
+	},
+	"Histories": [{
+		"CreatedById": "0050j000000ZwJaAAK",
+		"CreatedDate": "2017-06-09T16:51:00.000Z",
+		"NewValue": "Non-TEC",
+		"Id": null,
+		"type": "Case_Item__History"
+	}, {
+		"CreatedById": "0050j000000ZwJaAAK",
+		"CreatedDate": "2017-06-09T17:00:34.000Z",
+		"NewValue": "SPS",
+		"Id": null,
+		"type": "Case_Item__History"
+	}],
+	"Case__r": {
+		"CaseNumber": "00274531",
+		"Id": null,
+		"type": "Case"
+	},
+	"Id": null,
+	"type": "Case_Item__c"
+}]

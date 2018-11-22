@@ -1,0 +1,47 @@
+[{
+	"NextStepsReason__c": "S2 – Parts Follow Up",
+	"Activities__r": [{
+		"Name__c": "Liviu S",
+		"Interaction_Type__c": "WC – Work Complete",
+		"CreatedDate": "2017-05-19T21:53:43.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}, {
+		"Name__c": "CSS User 1st Attempt to Contact the Customer 1 min",
+		"Interaction_Type__c": "BZ - Phone Busy on Call-Back",
+		"CreatedDate": "2017-05-19T22:17:01.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}, {
+		"Name__c": "1st Attempt to contact customer",
+		"Interaction_Type__c": "NA - No Answer",
+		"CreatedDate": "2017-05-19T22:24:39.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}, {
+		"Name__c": "MANOJ",
+		"Interaction_Type__c": "WC – Work Complete",
+		"CreatedDate": "2017-05-25T17:25:10.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}],
+	"CaseNumber": "00266597",
+	"Histories": [{
+		"CreatedDate": "2017-05-22T18:27:38.000Z",
+		"NewValue": "S2 – Parts Follow Up",
+		"Id": null,
+		"type": "CaseHistory"
+	}, {
+		"CreatedDate": "2017-05-22T18:29:26.000Z",
+		"NewValue": "S1 – Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}, {
+		"CreatedDate": "2017-05-24T18:50:13.000Z",
+		"NewValue": "S2 – Parts Follow Up",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+}]

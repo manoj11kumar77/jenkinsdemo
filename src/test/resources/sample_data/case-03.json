@@ -1,0 +1,158 @@
+[{
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00275702",
+	"Histories": [{
+		"CreatedDate": "2017-06-19T15:23:00.000Z",
+		"NewValue": "S1 – Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00275613",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00275433",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274982",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274977",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274973",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274284",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274280",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274275",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274274",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274217",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274081",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00274053",
+	"Histories": null,
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00273794",
+	"Histories": [{
+		"CreatedDate": "2017-06-21T19:55:01.000Z",
+		"NewValue": "S1 – Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00273749",
+	"Histories": [{
+		"CreatedDate": "2017-06-06T12:25:12.000Z",
+		"NewValue": "S1 – Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+}, {
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": null,
+	"CaseNumber": "00272570",
+	"Histories": [{
+		"CreatedDate": "2017-05-26T21:09:17.000Z",
+		"NewValue": "S1 – Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+},
+{
+	"NextStepsReason__c": "S1 – Customer Escalation",
+	"Activities__r": [{
+		"Name__c": null,
+		"Interaction_Type__c": null,
+		"CreatedDate": "2017-06-19T15:22:59.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}, {
+		"Name__c": null,
+		"Interaction_Type__c": null,
+		"CreatedDate": "2017-06-19T15:22:59.000Z",
+		"Id": null,
+		"type": "LookedUpFromActivity"
+	}],
+	"CaseNumber": "00275702",
+	"Histories": [{
+		"CreatedDate": "2017-06-19T15:23:00.000Z",
+		"NewValue": "S1 � Customer Escalation",
+		"Id": null,
+		"type": "CaseHistory"
+	}],
+	"Id": null,
+	"type": "Case"
+}]
